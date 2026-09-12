@@ -1,4 +1,4 @@
-# FYP 2 — Brand Lift
+# Brand Lift
 
 Rebrand to Brand Lift and implement dashboard with survey system
 - Rebranded from Startup LaunchPad to Brand Lift across all files
